@@ -1,3 +1,4 @@
+//main.cpp for FRDM-KL25Z on Mbed
 #include "mbed.h"
 
 const float frequency[] = { 660, 0, 660, 0, 660, 0, 510, 0, 660, 0, 770, 0, 380, 0,
